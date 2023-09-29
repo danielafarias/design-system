@@ -57,5 +57,43 @@ $blue-light: #b4d2f4;
 
 // * Font Families
 
-$playfair: "Playfair", serif; // 1º font
-$raleway: "Raleway", "HelveticaNeue", "Helvetica", "Arial" sans-serif; // 2º font
+$playfair: "Playfair", serif; // Headings
+$raleway: "Raleway", "HelveticaNeue", "Helvetica", "Arial" sans-serif; // Body
+
+// * Font Sizes
+
+$fs-xs: 0.75rem; // 12px
+$fs-sm: 0.875rem; // 14px
+$fs-base: 1rem; // 16px
+$fs-lg: 1.125rem; // 18px
+$fs-xl: 1.5rem; // 24px
+
+// * Heading Font Sizes
+
+$h-1: 1.375rem; // 22px
+$h-2: 1.375rem; // 22px
+$h-3: 1rem; // 16px
+$h-4: 1.125rem; // 18px
+$h-5: 0.75rem; // 12px
+$h-6: 0.75rem; // 12px
+
+// * Font Weights
+
+$fw-light: 300;
+$fw-normal: 400;
+$fw-medium: 500;
+$fw-semibold: 600;
+$fw-bold: 700;
+$fw-extrabold: 800;
+$fw-black: 900;
+
+
+/*=============================================
+=               Breakpoints                   =
+=============================================*/
+
+$breakpoints: (
+    md: 48rem, // 768px
+    lg: 64rem, // 1024px
+    xl: 80rem, // 1280px
+);
