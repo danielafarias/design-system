@@ -1,0 +1,61 @@
+/*=============================================
+=                   Variables                 =
+=============================================*/
+
+// * COLORS
+
+// Brand Colors -> Main brand colors
+// Neutral Colors -> B&W, gray Scale, secondary colors
+// Utility Colors -> Info, warning, error, success, etc...
+
+
+// * TYPOGRAPHY
+
+// Font Families
+// Font Weights
+// Font Sizes
+// Heading Sizes
+
+
+// * BREAKPOINTS
+
+// Breakpoints -> Global responsive breakpoints definitions
+
+
+/*=============================================
+=                    Colors                   =
+=============================================*/
+
+// * Brand Colors
+
+$green: #5ece7b;
+$green-light: #9ee2b0;
+
+$dark: #1d1f22;
+$dark-light: #737680;
+
+// * Neutral Colors
+
+$gray: #a3a5ad;
+$gray-light: #bebfc4;
+
+$white: #fff;
+$white-light: #f1f2f3;
+
+// * Utility Colors
+
+$red: #d12727;
+$red-light: #f8dedf;
+
+$blue: #0468db;
+$blue-light: #b4d2f4;
+
+
+/*=============================================
+=                Typography                   =
+=============================================*/
+
+// * Font Families
+
+$playfair: "Playfair", serif; // 1º font
+$raleway: "Raleway", "HelveticaNeue", "Helvetica", "Arial" sans-serif; // 2º font
